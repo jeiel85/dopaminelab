@@ -2,6 +2,8 @@
 
 > **어떤 억까(불행)도 황금빛 행운으로! 2026 SNS 바이럴 트렌드 인터랙티브 플레이그라운드**
 
+### 🌐 [라이브 데모 바로가기 (GitHub Pages)](https://jeiel85.github.io/funny/)
+
 ![React](https://img.shields.io/badge/React-18-blue?style=flat-square&logo=react)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4-38B2AC?style=flat-square&logo=tailwind-css)
 ![Vite](https://img.shields.io/badge/Vite-6.0-646CFF?style=flat-square&logo=vite)
