@@ -8,6 +8,7 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4-38B2AC?style=flat-square&logo=tailwind-css)
 ![Vite](https://img.shields.io/badge/Vite-6.0-646CFF?style=flat-square&logo=vite)
 ![Web Audio API](https://img.shields.io/badge/Web_Audio-Synthesizer-FF5E97?style=flat-square)
+![Topics](https://img.shields.io/badge/Topics-lucky--vicky%20%7C%20dopamine%20%7C%20meme-CCFF00?style=flat-square)
 
 ---
 
